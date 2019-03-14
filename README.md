@@ -3,7 +3,7 @@ Dinâmica realizada dia 14/03
 
 Nesta dinâmica você deve criar:
 
--> Aplicação usuário:
+##Aplicação usuário:##
 
 1- Realizar página de login
   * Somente usar o campo username para realizar o login
@@ -18,7 +18,7 @@ Nesta dinâmica você deve criar:
    * Mostrar as mensagens de todos os usuários e organizadas das mais novas para as mais velhas de baixo para cima.
    * Esta área deve atualizar sempre que um usuário enviar alguma mensagem
     
--> Aplicação consultor:
+##Aplicação consultor:##
 
 1- Realizar página de login
   * Usar campo username para login
