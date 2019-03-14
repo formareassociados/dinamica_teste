@@ -22,7 +22,7 @@ Nesta dinâmica você deve criar:
 
 1- Realizar página de login
   * Usar campo username para login
-    * *Plus: + password para realizar o login e utilizar autenticação
+    * *Plus: + password para realizar o login e utilizar autenticação*
 
 2- O consultor então terá os seguintes campos que serão utilizados para organizar as mensagens enviadas e exibir para o consultor:
   * Filtro por username
@@ -30,5 +30,5 @@ Nesta dinâmica você deve criar:
   * Ordenar por mais recentes/mais antigas
   
 3- Deverá também ter um campo que o consultor irá inserir o número de grupos e o resultado do filtro anterior será o input que irá ser dividido no número de grupos inserido
-  * *Plus: Caso o consultor separar em 5 grupos, dividir na seguinte proporção 15% - 25% - 20% - 25% - 15%
+  * *Plus: Caso o consultor separar em 5 grupos, dividir na seguinte proporção 15% - 25% - 20% - 25% - 15%*
   
