@@ -29,6 +29,7 @@ Nesta dinâmica você deve criar:
   * Filtro por username
   * Filtro por data
   * Ordenar por mais recentes/mais antigas
+    * *Plus: Apagar mensagens*
   
 3- Deverá também ter um campo que o consultor irá inserir o número de grupos e o resultado do filtro anterior será o input que irá ser dividido no número de grupos inserido
   * *Plus: Caso o consultor separar em 5 grupos, dividir na seguinte proporção 15% - 25% - 20% - 25% - 15%*
