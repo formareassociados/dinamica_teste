@@ -1,5 +1,4 @@
-# dinamica_Hilton
-Dinâmica realizada dia 14/03
+# dinamica_teste
 
 Nesta dinâmica você deve criar:
 
