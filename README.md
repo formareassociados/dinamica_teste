@@ -16,6 +16,8 @@ Nesta dinâmica você deve criar:
   * Essa área que as mensagens serão exibidas deve:
    * Mostrar as mensagens de todos os usuários e organizadas das mais novas para as mais velhas de baixo para cima.
    * Esta área deve atualizar sempre que um usuário enviar alguma mensagem
+     * *Plus: Utilizar redux*
+
     
 ## Aplicação consultor:
 
