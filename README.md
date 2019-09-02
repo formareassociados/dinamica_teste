@@ -32,12 +32,11 @@ Nesta dinâmica você deve criar (utilizando ReactJS, NodeJS, MongoDB):
     * *Plus: Apagar mensagens*
 * preferencialmente utilizar o create-react-app para desenvolver o front end  
 
-3 - Crie uma Api Rest em node que irá gerar uma lista de 117 participantes, esses participantes.
+3 - Crie uma Api Rest em node que irá gerar uma lista com nomes de 117 participantes.
 
 Em Seguida Crie uma rota para ser consumida (essa rota irá retornar seu JSON de participantes).
 
-* Atenção não é necessário o uso de banco de dados aqui, mas se utilizar será contado como um plus.
+Atenção não é necessário o uso de banco de dados aqui, mas se utilizar será contado como um plus.
+4 - Criar uma página que consuma a API de cima, listando os participantes e em seguida dividindo todos em 4 grupos de forma aleatória e automática.
 
-4 - Criar um FrontEnd em ReactJs comsumindo a API de cima, listando os participantes e em seguida dividindo todos em 4 grupos de forma aleatória. 
- - Alguns grupos terão mais usuários que os outros, pois a divisão não é exata, mas crie de uma forma que o sistema distribua buscando deixar os grupos da forma mais equalitária possível.
-  
+Critério para geração de grupos: Alguns terão mais usuários que os outros, pois a divisão não é exata, mas crie de uma forma que o sistema distribua buscando deixar os grupos da forma mais equalitária possível. A divisão deve ser automática, considerando a quantidade de grupos
