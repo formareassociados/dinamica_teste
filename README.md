@@ -37,6 +37,7 @@ Nesta dinâmica você deve criar (utilizando ReactJS, NodeJS, MongoDB):
 Em Seguida Crie uma rota para ser consumida (essa rota irá retornar seu JSON de participantes).
 
 Atenção não é necessário o uso de banco de dados aqui, mas se utilizar será contado como um plus.
+
 4 - Criar uma página que consuma a API de cima, listando os participantes e em seguida dividindo todos em 4 grupos de forma aleatória e automática.
 
 Critério para geração de grupos: Alguns terão mais usuários que os outros, pois a divisão não é exata, mas crie de uma forma que o sistema distribua buscando deixar os grupos da forma mais equalitária possível. A divisão deve ser automática, considerando a quantidade de grupos
