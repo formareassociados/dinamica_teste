@@ -17,7 +17,7 @@ Nesta dinâmica você deve criar uma aplicação com os requisitos abaixo (utili
     'DD/MM/YY - 'username' - HH:MM => 'mensagem'
   * Essa área que as mensagens serão exibidas deve:
    * Mostrar as mensagens de todos os usuários e organizadas das mais novas para as mais velhas de baixo para cima.
-   * Esta área deve atualizar sempre que um usuário enviar alguma mensagem
+   * Esta área deve atualizar sempre que um usuário enviar alguma mensagem, via websocket.
     
 ## Login como Consultor:
 
